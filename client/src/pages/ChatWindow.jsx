@@ -87,7 +87,7 @@ const ChatWindow = () => {
           </div>
 
           {/* main container */}
-          <div className=" h-[79vh] w-[100%] mt-13 py-4">
+          <div className=" h-[75vh] w-[100%] mt-15 py-4">
             <Chat />
           </div>
 
