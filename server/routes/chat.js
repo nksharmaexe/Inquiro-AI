@@ -10,6 +10,7 @@ router.post("/test", async (req, res) => {
     const thread = new Thread({
       threadId: "test123",
       title: "Testing new Thread",
+      model:"gemini"
     });
     const response = await thread.save();
     res.send(response);
