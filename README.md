@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>🚀 A Modern Full-Stack AI Chat Application</h3>
-  <p>Powered by Google Gemini & Perplexity AI with real-time search capabilities</p>
+  <p>Powered by Google Gemini & Perplexity AI with real-time search capabilities.</p>
 </div>
 [Live Inquiro AI](https://inquiro-ai-server.vercel.app)
 
